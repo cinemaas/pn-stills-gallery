@@ -1,5 +1,7 @@
 # Paranormal Nobodies contact sheet
 
-Numbered production stills and pilot artwork. Heart images to shortlist, copy their IDs, or share a selection link. Likes are saved in this browser. Optimized web copies; production source files stay local.
+Phone-friendly numbered library with likes, checkmarks, current AE shot thumbnails, slot assignments and a Done review.
 
-Published with GitHub Pages.
+G/P: stylized stills. E: existing AE assets. S: timeline slots. Public share links contain selections only. The authenticated local AE bridge and private connection key are never published here.
+
+Done applies supported still swaps when privately connected to the Mac; baked clip assignments are saved for a scene rebuild.
