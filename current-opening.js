@@ -1,0 +1,9 @@
+(()=>{
+const api='https://pn-gallery.joshmaas.com';let state=null,busy=false;
+function apply(){if(!state)return;for(const s of state.shots){
+ const src=(state.live?api+'/opening/preview/'+s.slot_id:'slots/'+s.slot_id+'.jpg')+'?v='+s.version;
+ document.querySelectorAll('img').forEach(im=>{if((im.getAttribute('src')||'').includes('/'+s.slot_id+'.jpg')||im.dataset.currentSlot===s.slot_id){im.dataset.currentSlot=s.slot_id;if(im.src!==new URL(src,location.href).href)im.src=src;let a=im.closest('a');if(a&&a.getAttribute('href')?.includes('slots/'))a.href=src;}});
+ const card=document.getElementById(s.slot_id);if(card){let badge=card.querySelector('.current-asset');if(!badge){badge=document.createElement('small');badge.className='current-asset';card.append(badge)}badge.textContent=s.asset_id?'Currently in AE: '+s.asset_id:'Currently in AE: original shot';}
+ }let status=document.getElementById('openingSync');if(status)status.textContent='Synced from saved AE project · '+new Date(state.updated_at).toLocaleString()+'. Updates automatically after successful swaps.';}
+async function refresh(){if(busy)return;busy=true;try{let r;try{r=await fetch(api+'/opening/current?t='+Date.now(),{cache:'no-store',signal:AbortSignal.timeout(5000)});if(!r.ok)throw Error();state=await r.json();state.live=true}catch(e){r=await fetch('current_opening.json?t='+Date.now(),{cache:'no-store'});if(!r.ok)throw Error();state=await r.json();state.live=false}apply()}catch(e){}finally{busy=false}}
+window.refreshCurrentOpening=refresh;new MutationObserver(()=>apply()).observe(document.querySelector('main')||document.body,{childList:true});let picker=document.getElementById('slotGrid');if(picker)new MutationObserver(()=>apply()).observe(picker,{childList:true});refresh();setInterval(()=>{if(!document.hidden)refresh()},15000);document.addEventListener('visibilitychange',()=>{if(!document.hidden)refresh()});})();

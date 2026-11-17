@@ -1,0 +1,211 @@
+{
+  "revision": "baseline-20261117",
+  "project": "PN_v26_All_Stylized_Assets_Complete.aep",
+  "updated_at": "2026-11-17T14:36:07.315272+00:00",
+  "shots": [
+    {
+      "slot_id": "S001",
+      "asset_id": null,
+      "preview": "slots/S001.jpg",
+      "version": "5a933459198d"
+    },
+    {
+      "slot_id": "S002",
+      "asset_id": null,
+      "preview": "slots/S002.jpg",
+      "version": "691f7fbc8c02"
+    },
+    {
+      "slot_id": "S003",
+      "asset_id": null,
+      "preview": "slots/S003.jpg",
+      "version": "486442522385"
+    },
+    {
+      "slot_id": "S004",
+      "asset_id": null,
+      "preview": "slots/S004.jpg",
+      "version": "c2bc26d343d3"
+    },
+    {
+      "slot_id": "S005",
+      "asset_id": null,
+      "preview": "slots/S005.jpg",
+      "version": "03731b5c515e"
+    },
+    {
+      "slot_id": "S006",
+      "asset_id": null,
+      "preview": "slots/S006.jpg",
+      "version": "289d1030c14c"
+    },
+    {
+      "slot_id": "S007",
+      "asset_id": null,
+      "preview": "slots/S007.jpg",
+      "version": "5e19c3ef2400"
+    },
+    {
+      "slot_id": "S008",
+      "asset_id": null,
+      "preview": "slots/S008.jpg",
+      "version": "d3ca985f88e3"
+    },
+    {
+      "slot_id": "S009",
+      "asset_id": null,
+      "preview": "slots/S009.jpg",
+      "version": "a71fc1120a2d"
+    },
+    {
+      "slot_id": "S010",
+      "asset_id": null,
+      "preview": "slots/S010.jpg",
+      "version": "57e6252fe826"
+    },
+    {
+      "slot_id": "S011",
+      "asset_id": null,
+      "preview": "slots/S011.jpg",
+      "version": "d7d67e5bebb9"
+    },
+    {
+      "slot_id": "S012",
+      "asset_id": null,
+      "preview": "slots/S012.jpg",
+      "version": "a3a43593c93b"
+    },
+    {
+      "slot_id": "S013",
+      "asset_id": null,
+      "preview": "slots/S013.jpg",
+      "version": "726031b6ccee"
+    },
+    {
+      "slot_id": "S014",
+      "asset_id": null,
+      "preview": "slots/S014.jpg",
+      "version": "8760991d46ad"
+    },
+    {
+      "slot_id": "S015",
+      "asset_id": null,
+      "preview": "slots/S015.jpg",
+      "version": "ddb14a0701ed"
+    },
+    {
+      "slot_id": "S016",
+      "asset_id": null,
+      "preview": "slots/S016.jpg",
+      "version": "a5c102675c19"
+    },
+    {
+      "slot_id": "S017",
+      "asset_id": null,
+      "preview": "slots/S017.jpg",
+      "version": "5db005283507"
+    },
+    {
+      "slot_id": "S018",
+      "asset_id": null,
+      "preview": "slots/S018.jpg",
+      "version": "2fcdc600b91f"
+    },
+    {
+      "slot_id": "S019",
+      "asset_id": null,
+      "preview": "slots/S019.jpg",
+      "version": "e67acc22585c"
+    },
+    {
+      "slot_id": "S020",
+      "asset_id": null,
+      "preview": "slots/S020.jpg",
+      "version": "c3e63ae721eb"
+    },
+    {
+      "slot_id": "S021",
+      "asset_id": null,
+      "preview": "slots/S021.jpg",
+      "version": "6b8bd87bc9d6"
+    },
+    {
+      "slot_id": "S022",
+      "asset_id": null,
+      "preview": "slots/S022.jpg",
+      "version": "f8a3d7feebc8"
+    },
+    {
+      "slot_id": "S023",
+      "asset_id": null,
+      "preview": "slots/S023.jpg",
+      "version": "0903c3002514"
+    },
+    {
+      "slot_id": "S024",
+      "asset_id": null,
+      "preview": "slots/S024.jpg",
+      "version": "9b1762922265"
+    },
+    {
+      "slot_id": "S025",
+      "asset_id": null,
+      "preview": "slots/S025.jpg",
+      "version": "a91bfa76cb40"
+    },
+    {
+      "slot_id": "S026",
+      "asset_id": null,
+      "preview": "slots/S026.jpg",
+      "version": "9c467e9262b6"
+    },
+    {
+      "slot_id": "S027",
+      "asset_id": null,
+      "preview": "slots/S027.jpg",
+      "version": "79c272e06f6b"
+    },
+    {
+      "slot_id": "S028",
+      "asset_id": null,
+      "preview": "slots/S028.jpg",
+      "version": "f0270037740b"
+    },
+    {
+      "slot_id": "S029",
+      "asset_id": null,
+      "preview": "slots/S029.jpg",
+      "version": "cf304b378323"
+    },
+    {
+      "slot_id": "S030",
+      "asset_id": null,
+      "preview": "slots/S030.jpg",
+      "version": "bbfd26317bd0"
+    },
+    {
+      "slot_id": "S031",
+      "asset_id": null,
+      "preview": "slots/S031.jpg",
+      "version": "a7c9b2a0ab98"
+    },
+    {
+      "slot_id": "S032",
+      "asset_id": null,
+      "preview": "slots/S032.jpg",
+      "version": "2e4f0ae9b374"
+    },
+    {
+      "slot_id": "S033",
+      "asset_id": null,
+      "preview": "slots/S033.jpg",
+      "version": "1af9acd772d1"
+    },
+    {
+      "slot_id": "S034",
+      "asset_id": null,
+      "preview": "slots/S034.jpg",
+      "version": "a1955ca1e765"
+    }
+  ]
+}
