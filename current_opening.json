@@ -1,7 +1,7 @@
 {
-  "revision": "baseline-20261117",
-  "project": "PN_v26_All_Stylized_Assets_Complete.aep",
-  "updated_at": "2026-11-17T14:36:07.315272+00:00",
+  "revision": "ddc55d44091f363d2d38",
+  "updated_at": "2026-11-17T14:41:59.978956+00:00",
+  "project": "PN_Gallery_Swaps_ddc55d44091f363d2d38.aep",
   "shots": [
     {
       "slot_id": "S001",
@@ -71,9 +71,9 @@
     },
     {
       "slot_id": "S012",
-      "asset_id": null,
+      "asset_id": "G079",
       "preview": "slots/S012.jpg",
-      "version": "a3a43593c93b"
+      "version": "45020cf775bd"
     },
     {
       "slot_id": "S013",
