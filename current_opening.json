@@ -1,7 +1,7 @@
 {
-  "revision": "fit-final-20261119",
-  "updated_at": "2026-11-19T14:17:35.194947+00:00",
-  "project": "PN_Gallery_Swaps_Fit_S028_20261119.aep",
+  "revision": "fit-s003-20261119",
+  "updated_at": "2026-11-19T14:18:30.652326+00:00",
+  "project": "PN_Gallery_Swaps_Fit_S003_20261119.aep",
   "shots": [
     {
       "slot_id": "S001",
@@ -19,7 +19,7 @@
       "slot_id": "S003",
       "asset_id": "G007",
       "preview": "slots/S003.jpg",
-      "version": "94f1b31a15e0"
+      "version": "e85b23a21503"
     },
     {
       "slot_id": "S004",
