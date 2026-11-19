@@ -1,7 +1,7 @@
 {
-  "revision": "0e64f8fbf913652e9cf6",
-  "updated_at": "2026-11-19T14:23:55.869177+00:00",
-  "project": "PN_Gallery_Swaps_0e64f8fbf913652e9cf6.aep",
+  "revision": "26bb2c66fe99ef709a44",
+  "updated_at": "2026-11-19T14:24:50.662349+00:00",
+  "project": "PN_Gallery_Swaps_26bb2c66fe99ef709a44.aep",
   "shots": [
     {
       "slot_id": "S001",
@@ -179,9 +179,9 @@
     },
     {
       "slot_id": "S030",
-      "asset_id": "G137",
+      "asset_id": "G498",
       "preview": "slots/S030.jpg",
-      "version": "fd9cd604a22c"
+      "version": "e9ed9df73d86"
     },
     {
       "slot_id": "S031",
