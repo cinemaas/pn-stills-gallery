@@ -1,7 +1,7 @@
 {
-  "revision": "5230f2606ce048a0abd5",
-  "updated_at": "2026-11-19T03:13:57.389048+00:00",
-  "project": "PN_Gallery_Swaps_5230f2606ce048a0abd5.aep",
+  "revision": "ff54f6ed4aa3c557e946",
+  "updated_at": "2026-11-19T03:18:58.764809+00:00",
+  "project": "PN_Gallery_Swaps_ff54f6ed4aa3c557e946.aep",
   "shots": [
     {
       "slot_id": "S001",
@@ -17,9 +17,9 @@
     },
     {
       "slot_id": "S003",
-      "asset_id": null,
+      "asset_id": "G007",
       "preview": "slots/S003.jpg",
-      "version": "486442522385"
+      "version": "94f1b31a15e0"
     },
     {
       "slot_id": "S004",
@@ -47,9 +47,9 @@
     },
     {
       "slot_id": "S008",
-      "asset_id": null,
+      "asset_id": "G017",
       "preview": "slots/S008.jpg",
-      "version": "d3ca985f88e3"
+      "version": "7193e9eb7b10"
     },
     {
       "slot_id": "S009",
@@ -59,9 +59,9 @@
     },
     {
       "slot_id": "S010",
-      "asset_id": null,
+      "asset_id": "G021",
       "preview": "slots/S010.jpg",
-      "version": "57e6252fe826"
+      "version": "82842d3307b1"
     },
     {
       "slot_id": "S011",
@@ -77,9 +77,9 @@
     },
     {
       "slot_id": "S013",
-      "asset_id": null,
+      "asset_id": "G070",
       "preview": "slots/S013.jpg",
-      "version": "726031b6ccee"
+      "version": "fa609b2d5e77"
     },
     {
       "slot_id": "S014",
@@ -173,15 +173,15 @@
     },
     {
       "slot_id": "S029",
-      "asset_id": null,
+      "asset_id": "G083",
       "preview": "slots/S029.jpg",
-      "version": "cf304b378323"
+      "version": "2ea7e5f40445"
     },
     {
       "slot_id": "S030",
-      "asset_id": null,
+      "asset_id": "G137",
       "preview": "slots/S030.jpg",
-      "version": "bbfd26317bd0"
+      "version": "61bb8df6637e"
     },
     {
       "slot_id": "S031",
