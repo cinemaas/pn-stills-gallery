@@ -4,8 +4,8 @@
     "layer_index": 6,
     "name": "V22 BLENDER / book",
     "source": "book.mov",
-    "start": 0.0,
-    "end": 8.41666666666667,
+    "start": 0,
+    "end": 8.416666666666666,
     "source_id": 1892,
     "slot_id": "S001",
     "timecode": "00:00:00"
@@ -15,8 +15,8 @@
     "layer_index": 150,
     "name": "WIDE 02 - SCENE 02 - night_water",
     "source": "SCENE 02 - night_water",
-    "start": 8.41666666666667,
-    "end": 10.5416666666667,
+    "start": 8.416666666666666,
+    "end": 11.958333333333334,
     "source_id": 710,
     "slot_id": "S002",
     "timecode": "00:08:10"
@@ -26,55 +26,55 @@
     "layer_index": 149,
     "name": "WIDE 03 - SCENE 03 - stone_building",
     "source": "SCENE 03 - stone_building",
-    "start": 10.5416666666667,
-    "end": 12.625,
+    "start": 11.958333333333334,
+    "end": 14.916666666666666,
     "source_id": 725,
     "slot_id": "S003",
-    "timecode": "00:10:13"
+    "timecode": "00:11:23"
   },
   {
     "comp_id": 1139,
     "layer_index": 148,
     "name": "WIDE 04 - SCENE 04 - girl_key",
     "source": "SCENE 04 - girl_key",
-    "start": 12.625,
-    "end": 14.125,
+    "start": 14.916666666666666,
+    "end": 16.625,
     "source_id": 740,
     "slot_id": "S004",
-    "timecode": "00:12:15"
+    "timecode": "00:14:22"
   },
   {
     "comp_id": 1139,
     "layer_index": 147,
     "name": "CUT-IN 04 - key to her eyes",
     "source": "DETAIL 04 - key to her eyes",
-    "start": 14.125,
-    "end": 16.9166666666667,
+    "start": 16.625,
+    "end": 18.416666666666668,
     "source_id": 1174,
     "slot_id": "S005",
-    "timecode": "00:14:03"
+    "timecode": "00:16:15"
   },
   {
     "comp_id": 1139,
     "layer_index": 146,
     "name": "WIDE 05 - SCENE 05 - window",
     "source": "SCENE 05 - window",
-    "start": 16.9166666666667,
-    "end": 18.4166666666667,
+    "start": 18.416666666666668,
+    "end": 19.625,
     "source_id": 757,
     "slot_id": "S006",
-    "timecode": "00:16:22"
+    "timecode": "00:18:10"
   },
   {
     "comp_id": 1139,
     "layer_index": 145,
     "name": "WIDE 06 - SCENE 06 - hell_house",
     "source": "SCENE 06 - hell_house",
-    "start": 18.4166666666667,
+    "start": 19.625,
     "end": 21.0,
     "source_id": 772,
     "slot_id": "S007",
-    "timecode": "00:18:10"
+    "timecode": "00:19:15"
   },
   {
     "comp_id": 1139,
